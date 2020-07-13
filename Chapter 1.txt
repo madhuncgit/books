@@ -1,1 +1,4 @@
 Introduction to Selenium
+
+What is a webdriver?
+It is an interface in java.
